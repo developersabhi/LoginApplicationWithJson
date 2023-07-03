@@ -1,0 +1,83 @@
+{
+  "user": [
+    {
+      "id": "asdfg",
+      "name": "as",
+      "password": "abhi@123A",
+      "email": "chaturvedi@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Rohit",
+      "name": "rohitsharma",
+      "password": "abhi@123A",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    },
+    {
+      "id": "Abhishek",
+      "name": "Abhishek Chaturvedi",
+      "password": "abhi@123A",
+      "email": "chaturvediabhi111@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "username": "Ahi84",
+      "fname": "Tom",
+      "lname": "jarry",
+      "email": "jerry@g.c",
+      "password": "jarry@123J",
+      "cpasword": "jarry@123J",
+      "gender": "male",
+      "role": "",
+      "isactive": false,
+      "id": "C82K-Oz"
+    },
+    {
+      "id": "ramo1",
+      "name": "shamo",
+      "password": "jano@123A",
+      "email": "sham@g.co",
+      "gender": "male",
+      "role": "qulity",
+      "isactive": false
+    },
+    {
+      "id": "kam!dd",
+      "name": "jad",
+      "password": "Abhi@123!",
+      "email": "abhi@1",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "username": "Praveen",
+      "fname": "Praveen",
+      "lname": "kumar",
+      "email": "p@g.c",
+      "password": "Praveen@123",
+      "cpasword": "Praveen@123",
+      "gender": "male",
+      "role": "",
+      "isactive": false,
+      "id": "x1Ue39P"
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "qulity",
+      "name": "Qulity"
+    }
+  ]
+}
